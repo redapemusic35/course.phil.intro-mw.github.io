@@ -1,10 +1,12 @@
 ---
-title: "PHIL343A - Introduction to Philosophy"
+title: "PHIL 101B (5691) - Introduction to Philosophy"
 subtitle: "Academic Year: 2025/26"
 format: html
 ---
 
 In this course, we will use David Chalmer's book ***Reality+*** to look at questions humans have been asking for thousands of years. While the primary focus of the book is look at one question in particular "Are we in a simulation?", we use this question to frame others such as: "What does it mean to know that the sky is blue?", "is murder really wrong?", "How did I come to know that murder is wrong?".
+
+[Download the Syllabus Here:](./weeks/syllabus.qmd)
 
 ::: {.callout-important collapse=false}
 ## 📢 Important
@@ -19,6 +21,7 @@ In this course, we will use David Chalmer's book ***Reality+*** to look at quest
 # 🧑🏻‍🏫 Syllabus
 
 ::: {.panel-tabset}
+
 ## Course Convenor
 
 
@@ -34,22 +37,21 @@ Office Hours:
 - Where: Elizabeth Hall 104
 - How to book: Drop in, email, or book via [Microsoft Bookings](https://outlook.office.com/bookwithme/user/59570715559b43fdabc651a89a3ed839@stetson.edu?anonymous&ismsaljsauthenabled&ep=plink)
 
-## Teaching Staff
-
-![](/figures/people/ta_octopunian.png){fig-align="left" fig-alt="NA" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;"}
-**[NA](#)** <br/>
-Student Peer Instructor<br>
-📧 [NA](mailto:)
-
-~~[](/figures/people/ta_octopunian2.png){fig-align="left" fig-alt="Photo of TA_NAME" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;"}~~
-~~**[TA_NAME](#)** <br/>~~
-~~PhD Candidate at PLACE <br>~~
-~~📧 [EMAIL](mailto:)~~
-
 ## Course Information
+
+Introduction to Philosophy: Value, Meaning, and Humanity's Place in the Modern World
+
+Times: 10:30-11:45
+Days: Mons and Weds or Tues Thurs
+Where: Davis Hall 209
 
 ### Required Texts:
 
+Chalmers, David J.. Reality+: Virtual Worlds and the Problems of Philosophy. United Kingdom: Penguin Books Limited, 2022.
+
+Here is an amazon link to the book: https://www.amazon.com/Reality-Virtual-Worlds-Problems-Philosophy/dp/0393635805
+
+This will also be supplemented with handouts.
 
 ### Expectations:
 
@@ -83,7 +85,7 @@ Students will be evaluated based on a total of 640 points, with the final grade 
 
 ### Weekly Reflections (5% of final grade, 32 points total):
 
-* Eight short reflections submitted via Canvas, due on the following dates: September 22, September 29, October 13, October 20, October 27, November 3, November 10, and November 17, 2025.
+* Eight short reflections submitted via Canvas, due Monday at the beginning of week of regular meeting times.
 
 * Format: Summarize an argument from the week's reading (3 short sentences) and provide a reflection (2 sentences).
 
@@ -93,26 +95,25 @@ Students will be evaluated based on a total of 640 points, with the final grade 
 
 ### Quiz 1  (25% of final grade, 160 points):
 
+* A ~1,200-word comprehensive essay covering all course material, due Wed Feb 25, 2026.
 
-* A ~1,200-word comprehensive essay covering all course material, due Oct 8, 2025.
-
-* Grading: Evaluated using the rubric with 4 categories, each scored 5–20 points (max 80). See rubric below.
+* Grading: Evaluated using the rubric with 4 categories, each scored 5–20 points (max 40). See rubric below.
 
 ### Critical Reflection 1 (12.5% of final grade, 80 points):
 
-* A ~1,500-word essay covering material up to this point, due November 8, 2025.
+* A ~1,500-word essay covering material up to this point, due Mar 23, 2026.
 
 * Grading: Evaluated using the rubric with 4 categories, each scored 5–20 points (max 80). See rubric below.
 
-* Excel Formula: =SUM(category scores); scaled to 12.5% of final grade.
-
 ### Presentation (15% of final grade, 96 points):
 
-* A ~5-minute elevator pitch on what you will argue in your 2nd Reflective Analysis, presented on November 19 or 24, 2025.
+For this portion of the grade, we will conduct a series of dnd advantures modeled on hard to solve philosophical problems. For instance, in Plato's Republic, Plato uses the thought of a cave holding prisoners who've never seen the outside. All the things they think are objects in the world, really are just crude imitations projected onto a wall in front of them. One escapes and realizes everything he's been told is a lie. If he goes back, no one will believe him, what should he do?
 
-* Requirements: Summarize an argument (3 sentences) and reflect (2 sentences) on a work of art from the readings.
-* Scheduling: Signup sheet provided in class; sessions on November 19 and 24.
-* Grading: Evaluated using the rubric with 4 categories, each scored 6–24 points (max 96). See rubric below.
+||||
+|---|---|---|
+| Sunlight Revelation (Books VI-VII, Cave Allegory) | You reach the exit: Blinding sun! Puppets were lies. Return to free others? They mock you as mad. | - Question: "Forms vs. shadows—what's real?" (Insight roll: 15+ → Vision quest boon; Low → Blinded retreat.) - Suggestion: "Descend as educators." (Strength roll: Success → Convert prisoners; Fail → Stoned as heretic.) - Others: Resistance rolls → "Allegory boss": High total → Party ascends enlightened. |
+
+Dates: January 19; February 11; March 9; March 11; March 25
 
 ### Critical Reflection 2 (25% of final grade, 160 points):
 
@@ -122,7 +123,7 @@ Students will be evaluated based on a total of 640 points, with the final grade 
 
 ### Quiz 2 (12.5% of final grade, 80 points):
 
-* A ~1,500-word comprehensive essay covering all course material, due December 9, 2025.
+* A ~1,500-word comprehensive essay covering all course material, taken in class on final day of class, either Apr 29 or Apr 30, 2026.
 
 * Grading: Evaluated using the rubric with 4 categories, each scored 5–20 points (max 80). See rubric below.
 
@@ -139,6 +140,178 @@ Grading Scale (equal increments of 8 points):
 | 3–4 | unexcused absences: | 16 points |
 | 5–6 | unexcused absences: | 8 points |
 | 6 | unexcused absences: | 0 points |
+
+## Reading Schedule
+
+***Adjust all dates by one for Tuesday Thursday Course***
+
+***Weeklies Due Every Monday Starting Jan 19***
+
+Thu Jan 14, handouts
+
+Mon Jan 19, this this the real life, chapter 1, weekly due every Monday starting today, First DND Adventure Instructor led
+
+Wed Jan 21, Chapter 2, Simulation Hypothesis
+
+Mon Jan 26, Chapter 3, Knowledge
+
+Wed Jan 28, the external world, ch. 4
+
+Mon Feb 2, ch. 5, possibilities
+
+Wed Feb 4, ch. 6, What is Reality?
+
+Mon Fed 9, ch. 7, Is God a hacker in the universe up?
+
+Wed Fed 11, ch. 8 Information, 2nd DND Adventure, Student Led
+
+Mon Feb 16, ch. 9, On Bits
+
+Wed Feb 18, ch. 10, VR and R
+
+Mon Feb 23, ch. 11, Illusion Machines
+
+Wed Feb 25, Quiz 1
+
+Mon Mar 02, Spring Break
+
+Wed Mar 4, Spring Break
+
+Mon Mar 9, ch. 13 ch. 12, 3rd DND Adventure, Student Led
+
+Wed Mar 11, ch. 14
+
+Mon Mar 16, ch. 15, 4th DND Adventure, Student Led
+
+Wed Mar 18, ch. 16
+
+Mon Mar 23, ch. 17 Critical Reflection Due
+
+Wed Mar 25, ch. 18,
+
+Mon Mar 30, ch. 19
+
+Wed Apr 1, ch. 20
+
+Mon Apr 6, ch. 21
+
+Wed Apr 8, ch. 22
+
+Mon Apr 13, ch. 23
+
+Wed Apr 15, ch. 24
+
+Mon Apr 20
+
+Wed Apr 22
+
+Mon Apr 27
+
+Wed Apr 29, last day of classes, Final Quiz
+
+Paper Due on Day of Final Quiz (Submit on Canvas)
+
+## DND Addendum
+
+[Download here:](./weeks/dnd-campaign.qmd)
+
+### Overall Course Setup
+
+- **Group Structure**: By the second week, students form small groups of **5 members** each.
+- **Rotating Dungeon Master (DM) Role**: Every group member gets **one turn** to act as the Dungeon Master (DM) for a full session/day.
+  - This distributes workload fairly—no one is stuck doing all the prep.
+  - The DM takes ownership of that day's reading/topic, transforming it into a D&D-style adventure.
+
+### Session Format (When a Student is DM)
+
+1. **Presentation of the Reading**
+
+The DM presents the assigned philosophical text (e.g., a reading on justice, legal positivism, natural law, authority, rights, punishment, or core intro topics like knowledge/reality) **structured as a D&D adventure**.
+
+- Think narrative framing: The group is a party of adventurers (or avatars embodying philosophical positions).
+- The reading becomes the "quest" or "dungeon" backdrop—e.g., a moral/legal dilemma in a kingdom, a trial in a courtroom-cave, or a riddle posed by a sphinx representing a philosopher.
+
+2. **Challenges Presented One at a Time**
+
+The DM introduces **several challenges** sequentially (like encounters in a dungeon).
+
+- Each challenge draws directly from key concepts, arguments, objections, or thought experiments in the reading.
+- Examples:
+  - A village demands obedience to an unjust law → Debate duty to obey.
+  - A trial with conflicting evidence → Explore legal interpretation or epistemology of testimony.
+  - A trolley-like scenario in a fantasy context → Apply ethics/law theories.
+
+3. **Group Interaction & Participation**
+
+For **each challenge**:
+
+- Any group member can respond by:
+  - **Asking a clarifying question** about the challenge (probing the text/concept).
+  - **Offering a suggestion/solution** (proposing a philosophical position, argument, or counter).
+- The DM evaluates the response in character (as the "world" reacting).
+  - The responding player **rolls dice** (typically a d20 + relevant modifier, like "Intelligence for reasoning" or "Charisma for persuasion") to determine the outcome/strength of their idea.
+  - Success → Advances the "quest," strengthens the argument, or reveals new insight.
+  - Failure → Complication, objection, or setback (e.g., a logical fallacy is exposed).
+
+4. **Collaborative Input & Multiple Rolls**
+
+After the first response/roll:
+
+- Other group members get turns to **offer their own responses** or build on/counter the previous one.
+- They also **roll dice** to suggest "other considerations" (e.g., alternative interpretations, edge cases, or objections from the reading).
+- This creates a back-and-forth discussion, with dice adding chance, excitement, and stakes—mirroring how philosophical debates involve risk, uncertainty, and persuasion.
+
+5. **Resolution & Reflection**
+
+- The DM adjudicates the collective outcomes (like a traditional DM).
+- The session ends with debrief: How did the "adventure" illuminate the reading? What arguments won/lost? How does this apply to real philosophy of law or intro questions?
+
+### Why This Works for Philosophy (Especially Philosophy of Law)
+
+- Turns abstract texts into experiential "living" philosophy—students defend positions, face consequences, and see ideas clash.
+- Dice rolls simulate uncertainty in reasoning (e.g., a brilliant argument might "fail" due to poor delivery, or a flawed one succeed by luck—prompting reflection on persuasion vs. truth).
+- Rotating DM role builds skills in presentation, facilitation, and creative application of ideas.
+- Small groups (5) ensure everyone participates actively.
+
+This structure is innovative but aligns with existing experiments in using D&D/RPGs to teach philosophy (e.g., ethics courses with group quests or embodying philosophers as characters). It keeps sessions engaging, hands-on, and true to the spirit of philosophical inquiry as a shared adventure in reasoning! If you'd like examples of challenges for specific topics (e.g., Hart vs. Fuller on law, or Plato's Republic as a dungeon), let me know.
+
+### Examples
+
+#### Examples of D&D-Style Challenges
+
+Here are **concrete examples** of challenges tailored to the rotating DM format you described. Each is designed for a **5-player group session** (45-60 minutes), drawing directly from key readings. The DM narrates in a immersive, fantasy voice, presents challenges **one at a time**, and adjudicates dice rolls (e.g., d20 + "Wisdom" for insight, "Charisma" for persuasion).
+
+- **Success thresholds**: DC 10-15 (easy for basic grasp, hard for nuance). High roll = insight/reward; low = complication/objection.
+- **Player actions**: Ask a question (probe text) or suggest a solution (defend position). Others chime in with counters/considerations.
+- **Pre-gen characters**: Assign avatars like "The Skeptic" (epistemology focus) or "The Judge" (law focus) for roleplay.
+
+I've structured them for **Philosophy of Law** (Hart vs. Fuller) and **Introduction to Philosophy** (Plato's *Republic* as a dungeon). Use a simple cheat sheet for DM notes.
+
+##### 1. Philosophy of Law: Hart vs. Fuller Debate (*The Hart-Fuller Debate* or Nazi Law Examples)
+
+**DM Setup Narrative**: "Your party of royal advisors enters the Tyrant's Courtroom Dungeon. A despotic king has issued a 'valid' decree: All villagers with blue eyes must report for 'relocation' at dawn. The scribe shows the signed edict—properly promulgated. But whispers say it's a death sentence. Is this *law*? Obey or rebel? Roll Initiative for Justice!"
+
+| Challenge # | Description (DM Presents) | Player Responses & Dice Outcomes |
+|-------------|---------------------------|----------------------------------|
+| **1: Validity of the Law** (Hart's Positivism) | "The edict meets all formal rules: clear, public, prospective. The king asks: 'Is this law, even if evil?'" | - **Question**: "What makes a rule 'law'?" (Roll Wisdom: 15+ → "Hart says yes—law is source-based, not moral." Low → Blind obedience trap.)<br>- **Suggestion**: "It's law; validity ≠ morality." (Charisma roll: Success → Party gains 'Legal Shield' boon; Fail → Moral doubt debuff.)<br>- Others: Counter with Fuller's "inner morality" → Roll for objection. |
+| **2: Morality of the Law** (Fuller's 8 Principles) | "A villager pleads: The edict is retroactive—blue-eyed kids born yesterday are doomed! Does this void it?" | - **Question**: "What are Fuller's principles (generality, non-retroactivity, etc.)?" (Intelligence roll: 12+ → Reveals flaw; Low → Party accused of treason.)<br>- **Suggestion**: "Rebel—immoral laws aren't true law!" (Dexterity 'stealth rebel' roll: Success → Free villagers; Fail → Guards summon.)<br>- Others: Hart counter ("Separability thesis!") → Group vote/rolls resolve. |
+| **3: Resolution Dilemma** | "The king offers: Enforce it for gold, or challenge in court? Your choice echoes through the dungeon." | - Collective rolls build "Justice Meter." High total → Overthrow tyrant (Fuller win); Low → Enrich but haunted (Hart win). Debrief: When does law fail? |
+
+**DM Tips**: Prep 8 Fuller principles as "artifacts." Total session: 3 challenges → Philosophical "boss fight" resolution.
+
+##### 2. Introduction to Philosophy: Plato's *Republic* (Justice & the Cave as Dungeon)
+
+**DM Setup Narrative**: "You awaken chained in the Cave of Shadows—*Plato's Republic* unfolds as your prison. Flickering firelight casts puppet illusions on the wall: 'thrones,' 'wars,' 'gold.' A voice (Socrates) whispers: 'What is justice? Break free or stay comfy?' Your pre-gen avatars (Guardian, Philosopher, Artisan) must navigate to the sunlight exit."
+
+| Challenge # | Description (DM Presents) | Player Responses & Dice Outcomes |
+|-------------|---------------------------|----------------------------------|
+| **1: Defining Justice (Book I)** | "A shadowy 'thief' steals from the 'rich man' illusion. The cave echoes: 'Is justice helping friends or the stronger ruling?' (Thrasymachus taunt)." | - **Question**: "What did Polemarchus/Cephalus say?" (Wisdom roll: 10+ → "Justice as repayment?" Low → Tricked by illusion.)<br>- **Suggestion**: "Justice is soul harmony" (Plato tease). (Constitution roll: Success → Break one chain; Fail → Headache debuff.)<br>- Others: Debate counters → Roll Perception for "shadow flaws." |
+| **2: The Ideal City Escape (Books II-IV)** | "To flee, build a 'just city' in the cave: Guardians train, producers craft. But corruption spreads—luxury tempts!" | - **Question**: "Why ban poetry/myths?" (Intelligence roll: 13+ → Purify city; Low → Demoralized party.)<br>- **Suggestion**: "Philosopher-kings rule!" (Charisma roll: Success → Unlock tunnel; Fail → Faction revolt.)<br>- Others: Add classes (waves, auxiliaries) → Group rolls scale city "health." |
+| **3: Sunlight Revelation (Books VI-VII, Cave Allegory)** | "You reach the exit: Blinding sun! Puppets were lies. Return to free others? They mock you as mad." | - **Question**: "Forms vs. shadows—what's real?" (Insight roll: 15+ → Vision quest boon; Low → Blinded retreat.)<br>- **Suggestion**: "Descend as educators." (Strength roll: Success → Convert prisoners; Fail → Stoned as heretic.)<br>- Others: Resistance rolls → "Allegory boss": High total → Party ascends enlightened. |
+
+**DM Tips**: Use printed "shadow puppets" (simple drawings) as props. Debrief: How does the Cave mirror epistemology? Link to course: "Roll d20: What is reality?"
+
+These are **plug-and-play**—scale difficulty by reading depth. For more (e.g., Descartes' evil demon as a trap room or Mill's utilitarianism trolley trap), specify topics! This keeps sessions fun, fair, and deeply philosophical. 🎲
 
 ## Rubrics
 
@@ -158,12 +331,7 @@ Grading Scale (equal increments of 8 points):
 
 * Grading: Sum of 4 categories (max 96 points). Excel formula: =SUM(category scores); percentage = (total/96)*100.
 
-| Category | Excellent | Good | Needs Improvement | Unacceptable |
-|---|---|---|---|---|---|
-| Thesis | A clear statement of the main conclusion of the paper. | The thesis is obvious, but there is no single clear statement of it. | The thesis is present, but must be uncovered or reconstructed from the text of the paper. | There is no thesis. |
-| Premises | Each reason for believing the thesis is made clear, and as much as possible, presented in single statements. It is also clear which premises are to be taken as given, and which will be supported by sub-arguments.  The paper provides sub-arguments for controversial premises. If there are sub-arguments, the premises for these are clear, and made in single statements. The premises which are taken as given are at least plausibly true. | The premises are all clear, although each may not be presented in a single statement. It is also pretty clear which premises are to be taken as given, and which will be supported by sub-arguments. The paper provides sub-arguments for controversial premises. If there are sub-arguments, the premises for these are clear. The premises which are taken as given are at least plausibly true. | The premises must be reconstructed from the text of the paper. It is not made clear which premises are to be taken as given, and which will be supported by sub-arguments. There are no sub-arguments, or, if there are sub-arguments, the premises for these are not made clear. The paper does not provide sub-arguments for controversial premises. The plausibility of the premises which are taken as given is questionable. | There are no premises—the paper merely restates the thesis. Or, if there are premises, they are much more likely to be false than true. |
-| Support | The premises clearly support the thesis, and the author is aware of exactly the kind of support they provide. The argument is either valid as it stands, or, if invalid, the thesis, based on the premises, is likely to be or plausibly true. | The premises support the thesis, and the author is aware of the general kind of support they provide. The argument is either valid as it stands, or, if invalid, the thesis, based on the premises, is likely to be or plausibly true. | The premises somewhat support the thesis, but the author is not aware of the kind of support they provide. The argument is invalid, and the thesis, based on the premises, is not likely to be or plausibly true. | The premises do not support the thesis. |
-| Student Response | The paper considers both obvious and unobvious counter-examples, counter-arguments, and/or opposing positions, and provides original and/or thoughtful responses. | The paper considers obvious counter-examples, counter-arguments, and/or opposing positions, and provides responses. | The paper may consider some obvious counter-examples, counter-arguments, and/or opposing positions, but some obvious ones are missed. Responses are non-existent or mere claims of refutation. | No counter-examples, counter-arguments, or opposing positions are considered. |
+[Download the Course Rubric Here](./weeks/rubric.qmd)
 
 ## Grading Calculation
 
@@ -193,6 +361,53 @@ Final grade uses the following scale (no rounding):
 
 Example: Perfect scores = 32 + 160 + 160 + 80 + 80 + 96 + 32 = 640 points (100%, A+).
 
+## University Supports and Policies
+
+Please Note: Oral appeals for grade changes are NOT accepted. If you feel that you have an extremely strong case for a grade change, you may submit a one-page essay explaining your reasons to me within one week of your work being returned.
+
+A.Honor Code: University rules concerning scholastic dishonesty will be strictly followed. Any attempt at academic cheating will be referred to the Honor Council. I expect you to abide by the Honor Code that we have adopted here at Stetson. Please sign all work “Pledged, your name.” University rules concerning scholastic dishonesty will be strictly followed. As a community of intellectual inquirers, we are all committed to academic integrity and honesty.  The Stetson University Student Government Association, on its own initiative, recently drafted a proposal for an honor code, a powerful statement of the student body’s commitment to this community of honor and integrity. For this reason, all work that you turn in must be your own. Any contribution from others must be clearly acknowledged. Unauthorized assistance on exams (take-home as well as in-class), research papers, or projects can be neither given nor received. The University has fully endorsed its honor system and abides by its precepts. If you have questions regarding the method/procedure for citing the work of others, please feel free to consult us.
+
+The Department of Philosophy expects academic honesty of all students; we expect all students to abide by Stetson’s honor code and to adhere to the honor system. Academic dishonesty includes, but is not limited to, altering or misusing documents, plagiarizing, misrepresentation, knowingly providing false information, colluding, and other forms of cheating. Students should read and follow Stetson’s definitions and policies on ‘Academic Honesty,’ the honor code, and the honor system in Connections: The Campus Life Handbook and Calendar. It is the student’s responsibility to be familiar with these definitions and policies; ignorance of them is not an acceptable excuse for violating them. Cases of suspected academic dishonesty, including plagiarism, will be referred to the Academic Honor Council, as per departmental policy. 
+The honor code can be found online at the following address:http://www.stetson.edu/honorsystem/  http://www.stetson.edu/honorsystem/
+
+
+B.Assignment standards: Late Work: All assignments must be handed in on time: late work will be docked a half-letter grade per day unless you get my approval for an extension before the due date. (Student athletes and others on school business: please, be advised to turn your assignments in BEFORE you leave, not after you return). No make-up exams or quizzes will be given without documented University accepted excuse (and they will differ from the ones given in class). This includes group quizzes.
+
+
+C.Accommodation: Writing Center: Many students experience difficulty writing research papers. For that reason, Stetson University supports a Writing Center, located on the Second Floor of the Library. I have found that one or two visits to the Writing Center can make a tremendous difference in the quality of a paper. If you find that you have trouble with your written assignments, I strongly encourage you to seek the help of the Writing Center. The Academic Success Center provides academic and disability resources for all Stetson University Students. Students who anticipate barriers related to the format or requirements of a course should meet with me to discuss ways to ensure full participation. If disability-related accommodations are necessary, please register with the Academic Success Center (386-822-7127; www.stetson.edu/asc). You and I, and the ASC, will plan how best to coordinate accommodations.
+Sheridan’s writing center hours: W 2-6, F 12-3.
+
+The ASC also coordinates free tutoring on campus for students. You can meet with a tutor to review principles, learn content-specific study strategies, and enhance content area knowledge. To review the tutoring options available and schedules, please see our website www.stetson.edu/asc/tutoring/php.
+
+2.Counseling: Counseling: College can be extremely stressful for students, especially if this is the first time you’ve been away from home for an extended period of time or if there are other pressures that you are facing. For this reason, you may find it helpful to consult the University Counseling Center. Here is their contact information:
+
+Phone number: 386-822-8900
+
+Location:  The office is located in Griffith Hall
+
+Office hours: Weekdays from 8:00 a.m. to 4:30 p.m.
+
+If a student experiences a mental health emergency after hours, they can simply call Public Safety (386-822-7300) and ask to speak with the on-call counselor.
+
+We are staffed with qualified professional counselors who are trained to support and guide students through difficult transitions, experiences, and feelings.
+
+Counseling is confidential and free of charge for all currently enrolled Stetson University students.
+
+If experiencing a mental health crisis, you may also call 386-822-8740 to be connected to Volusia County Crisis Response Team: If having thoughts of harming yourself or others, select option one. For all other mental health needs select option nine.
+
+For medical emergencies call 911.
+
+Schedule of Readings/Assignments: subject to change as needed, it is YOUR responsibility to regularly check blackboard for announcements.
+
+Students are required to check their Stetson email and Canvas accounts frequently, daily if possible. Do not use technology as an excuse for not completing an assignment/quiz or for submitting an assignment/quiz late or improperly. Late assignments/submissions are not accepted.
+
+All students will be asked to verify in an online quiz that they agree and will abide by the procedures and policies presented in this syllabus. If you do not feel you can abide by the course rules, please drop the course.
+
+Any recordings of this class (audio, video, or otherwise) may ONLY be used for personal academic use. Recordings may NOT be shared with other people without written consent from the professor. The information contained in recordings constitutes intellectual property and is protected under federal copyright laws. This information may NOT be published or quoted without the express written consent of the professor and without giving proper identification and credit to the professor. Recordings of this class may not be used in any way against the faculty member, teaching assistant, other lecturer, or students whose classroom comments are recorded as part of the class. Violation of these stipulations will result in being reported to the Office of Community Standards.
+
+D. Food Insecurity: At Stetson University, we are committed to supporting students’ well-being, including ensuring access to nutritious food. If you are experiencing a lack of access to safe and nutritious food, the Hatters Helping Hatters Food Pantry is her to help. The Food Pantry is a free, no-questions-asked supplemental food resource for all Stetson students, staff & faculty. Food Pantry location:
+
+* Carlton Union Building (CUB 278), open 24 hours.
 :::
 
 # 📍 Lecture

@@ -21,6 +21,9 @@ website:
   sidebar:
     style: docked
     contents:
+      - section: "Syllabus"
+        contents:
+          - href: "./2026_intro/weeks/syllabus.qmd"
       - href: ./index.qmd
         text: "🏠 Lecture Notes and Slides"
       - section: "🗓️ Introduction to Philosophy"
@@ -187,6 +190,7 @@ format:
       - css/custom_style.css
       - css/syllabus.css
     toc: true
+    pdf: default
     html:
     html-math-method: mathjax
     include-in-header:
