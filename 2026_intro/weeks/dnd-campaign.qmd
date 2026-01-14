@@ -81,19 +81,7 @@ Here are **concrete examples** of challenges tailored to the rotating DM format 
 
 I've structured them for **Philosophy of Law** (Hart vs. Fuller) and **Introduction to Philosophy** (Plato's *Republic* as a dungeon). Use a simple cheat sheet for DM notes.
 
-#### 1. Philosophy of Law: Hart vs. Fuller Debate (*The Hart-Fuller Debate* or Nazi Law Examples)
-
-**DM Setup Narrative**: "Your party of royal advisors enters the Tyrant's Courtroom Dungeon. A despotic king has issued a 'valid' decree: All villagers with blue eyes must report for 'relocation' at dawn. The scribe shows the signed edict—properly promulgated. But whispers say it's a death sentence. Is this *law*? Obey or rebel? Roll Initiative for Justice!"
-
-| Challenge # | Description (DM Presents) | Player Responses & Dice Outcomes |
-|-------------|---------------------------|----------------------------------|
-| **1: Validity of the Law** (Hart's Positivism) | "The edict meets all formal rules: clear, public, prospective. The king asks: 'Is this law, even if evil?'" | - **Question**: "What makes a rule 'law'?" (Roll Wisdom: 15+ → "Hart says yes—law is source-based, not moral." Low → Blind obedience trap.)<br>- **Suggestion**: "It's law; validity ≠ morality." (Charisma roll: Success → Party gains 'Legal Shield' boon; Fail → Moral doubt debuff.)<br>- Others: Counter with Fuller's "inner morality" → Roll for objection. |
-| **2: Morality of the Law** (Fuller's 8 Principles) | "A villager pleads: The edict is retroactive—blue-eyed kids born yesterday are doomed! Does this void it?" | - **Question**: "What are Fuller's principles (generality, non-retroactivity, etc.)?" (Intelligence roll: 12+ → Reveals flaw; Low → Party accused of treason.)<br>- **Suggestion**: "Rebel—immoral laws aren't true law!" (Dexterity 'stealth rebel' roll: Success → Free villagers; Fail → Guards summon.)<br>- Others: Hart counter ("Separability thesis!") → Group vote/rolls resolve. |
-| **3: Resolution Dilemma** | "The king offers: Enforce it for gold, or challenge in court? Your choice echoes through the dungeon." | - Collective rolls build "Justice Meter." High total → Overthrow tyrant (Fuller win); Low → Enrich but haunted (Hart win). Debrief: When does law fail? |
-
-**DM Tips**: Prep 8 Fuller principles as "artifacts." Total session: 3 challenges → Philosophical "boss fight" resolution.
-
-#### 2. Introduction to Philosophy: Plato's *Republic* (Justice & the Cave as Dungeon)
+#### Introduction to Philosophy: Plato's *Republic* (Justice & the Cave as Dungeon)
 
 **DM Setup Narrative**: "You awaken chained in the Cave of Shadows—*Plato's Republic* unfolds as your prison. Flickering firelight casts puppet illusions on the wall: 'thrones,' 'wars,' 'gold.' A voice (Socrates) whispers: 'What is justice? Break free or stay comfy?' Your pre-gen avatars (Guardian, Philosopher, Artisan) must navigate to the sunlight exit."
 
