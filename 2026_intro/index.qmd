@@ -63,71 +63,67 @@ Submit all assignments via Canvas by the due date.
 
 Active participation and regular attendance are essential for success.
 
-### Late Assignment Policy
-
-Penalty: 10% deduction per day late.
-
-Makeup Process: Email the instructor within 48 hours to arrange an extension. No credit if not submitted by agreed date.
-
-### Additional Notes
-
-Canvas: Submit assignments and check grades regularly.
-
-Excel Setup: Rubric scores use IFS formulas (e.g., for Reflective Analysis: =IFS(rating="Excellent", 40, rating="Good", 30, rating="Needs Improvement", 20, rating="Unacceptable", 10)).
-
-Instructor Support: Email or [schedule](https://outlook.office.com/bookwithme/user/59570715559b43fdabc651a89a3ed839@stetson.edu?anonymous&ismsaljsauthenabled&ep=plink) a meeting for clarification.
-
 Success: Active participation, timely submissions, and attendance are key.
 
-## Course Evaluation
+### Grading Calculation
+
+[Download the Course Rubric Here](./weeks/rubric.qmd)
+
+***Weekly Reflections:*** Each reflection is worth a possible total of 8 points. There are 12 possible reflections. I will only grade 8 or your best reflections.
+
+***Reflective Analysis 1 & 2 (160 points):*** Each reflective analysis is worth a possible total of 20 points per category, times 4 categories equals 80 points times 2 reflection pieces.
+
+***Essay 1 & 2 (80 points):*** Each Quiz is worth a possible total of 10 points per category, times 4 categories equals 40 points times 2 Quizzes.
+
+***Presentation:*** Your grade in this area depends on your preparation and participation in the DND class meetings. [We will use the dnd adventure sheet linked here to gage participation](https://drive.google.com/drive/folders/1ZAXxdpvv5jzylj8_18jXUTI68o9MLrXw?usp=sharing).
 
 Students will be evaluated based on a total of 640 points, with the final grade determined by the percentage of points earned. The components are as follows:
 
-### Weekly Reflections (5% of final grade, 32 points total):
+#### There are four possible point values for each category:
 
-* Eight short reflections submitted via Canvas, due Monday at the beginning of week of regular meeting times.
+1. An unacceptable category area is worth 1/4 of the possible points for that category.
+2. One that needs improvement is worth 1/2 of the possible points for that category.
+3. A good submission is worth 3/4s of the possible points for that category.
+4. An excellent submission will be awarded full points.
 
-* Format: Summarize an argument from the week's reading (3 short sentences) and provide a reflection (2 sentences).
+For each type of assignment, you will be graded on:
 
-* Grading: Each reflection is scored holistically out of 4 points based on the rubric criteria (considering thesis, premises, support, and student response). Excellent (4 points), Good (3 points), Needs Improvement (2 points), Unacceptable (1 point).
+* It's thesis
+* The premises supporting the thesis
+* The support offered for those premises
+* Your evaluation of the material.
 
-* The total for all reflections is 32 points.
+##### Thesis (main conclusion of the reading)
 
-### Quiz 1  (25% of final grade, 160 points):
+* Excellent: A single, clear, obvious statement of your main point.
+* Good: The thesis is present and fairly obvious, but not stated in one sharp sentence.
+* Needs Improvement: You have to dig through the paper to find or reconstruct the thesis.
+* Unacceptable: No real thesis at all.
 
-* A ~1,200-word comprehensive essay covering all course material, due Wed Feb 25, 2026.
+##### Premises (the reasons supporting the thesis)
 
-* Grading: Evaluated using the rubric with 4 categories, each scored 5–20 points (max 40). See rubric below.
+* Excellent: Every reason is clearly stated (ideally in single sentences), you distinguish premises taken as given from those you defend, you provide sub-arguments for controversial claims, and the basic premises are at least plausibly true.
+* Good: Premises are mostly clear (though maybe not always single statements), sub-arguments appear for controversial points, and basic premises are plausible.
+* Needs Improvement: Premises are hard to identify, unclear which are basic vs. defended, missing sub-arguments for controversial claims, or basic premises are questionable.
+* Unacceptable: No real premises, or the premises are very likely false.
 
-### Critical Reflection 1 (12.5% of final grade, 80 points):
+##### Support (how well, logical, valid, sound?, the premises actually justify the thesis)
 
-* A ~1,500-word essay covering material up to this point, due Mar 23, 2026.
+* Excellent: The premises clearly and strongly support the thesis; the argument is either logically valid or makes the conclusion very plausible.
+* Good: Premises support the thesis reasonably well; the argument is valid or at least makes the conclusion plausible.
+* Needs Improvement: Premises only weakly support the thesis; the argument is invalid and the conclusion isn’t really made plausible.
+* Unacceptable: The premises do not support the thesis at all.
 
-* Grading: Evaluated using the rubric with 4 categories, each scored 5–20 points (max 80). See rubric below.
+##### Student Response (how you handle objections/counter-arguments)
 
-### Presentation (15% of final grade, 96 points):
+* Excellent: You thoughtfully address both obvious and less obvious objections, counterexamples, or opposing views, and give original or insightful replies.
+* Good: You address the most obvious objections and give reasonable responses.
+* Needs Improvement: You miss some obvious objections, or your responses are weak/empty (e.g., just saying “this is wrong” without explanation).
+* Unacceptable: You ignore objections, counterarguments, and opposing positions completely.
 
-For this portion of the grade, we will conduct a series of dnd advantures modeled on hard to solve philosophical problems. For instance, in Plato's Republic, Plato uses the thought of a cave holding prisoners who've never seen the outside. All the things they think are objects in the world, really are just crude imitations projected onto a wall in front of them. One escapes and realizes everything he's been told is a lie. If he goes back, no one will believe him, what should he do?
+This rubric rewards clear, well-structured, carefully defended, and critically aware philosophical writing. The strongest papers have a sharp thesis, transparent and plausible reasoning, strong logical support, and serious engagement with possible criticisms.
 
-||||
-|---|---|---|
-| Sunlight Revelation (Books VI-VII, Cave Allegory) | You reach the exit: Blinding sun! Puppets were lies. Return to free others? They mock you as mad. | - Question: "Forms vs. shadows—what's real?" (Insight roll: 15+ → Vision quest boon; Low → Blinded retreat.) - Suggestion: "Descend as educators." (Strength roll: Success → Convert prisoners; Fail → Stoned as heretic.) - Others: Resistance rolls → "Allegory boss": High total → Party ascends enlightened. |
-
-Dates: January 19; February 11; March 9; March 11; March 25
-
-### Critical Reflection 2 (25% of final grade, 160 points):
-
-* A ~1,200-word essay analyzing Grant Tavinor's The Art of Videogames, due December 3, 2025.
-
-* Grading: Evaluated using the rubric with 4 categories, each scored 10–40 points (max 160). See rubric below.
-
-### Quiz 2 (12.5% of final grade, 80 points):
-
-* A ~1,500-word comprehensive essay covering all course material, taken in class on final day of class, either Apr 29 or Apr 30, 2026.
-
-* Grading: Evaluated using the rubric with 4 categories, each scored 5–20 points (max 80). See rubric below.
-
-### Attendance (5% of final grade, 32 points):
+##### Attendance (5% of final grade, 32 points):
 
 * Based on unexcused absences throughout the semester.
 
@@ -149,7 +145,7 @@ Grading Scale (equal increments of 8 points):
 
 Thu Jan 14, handouts
 
-Mon Jan 19, this this the real life, chapter 1, weekly due every Monday starting today, First DND Adventure Instructor led
+Mon Jan 19
 
 Wed Jan 21, Chapter 2, Simulation Hypothesis
 
@@ -215,7 +211,9 @@ Paper Due on Day of Final Quiz (Submit on Canvas)
 
 [Download here:](./weeks/dnd-campaign.qmd)
 
-[For grading, I will be keeping a track of everyone's participation using adventure tracker sheets: save yours here](https://drive.google.com/drive/folders/1ZAXxdpvv5jzylj8_18jXUTI68o9MLrXw?usp=sharing)
+[To grade your participation in the dnd adventures, keep your adventure tracker sheets: found here](https://drive.google.com/drive/folders/1ZAXxdpvv5jzylj8_18jXUTI68o9MLrXw?usp=sharing)
+
+Your points prove you participated, you get full credit for turning in a complete score card.
 
 ### Overall Course Setup
 
@@ -229,7 +227,7 @@ Dungeon Master (DM) for a full session/day.
 
 ### Session Format (When a Student is DM)
 
-1. **Presentation of the Reading**
+#### 1. **Presentation of the Reading**
 
 The DM presents the assigned philosophical text (e.g., a reading on core intro topics like knowledge/reality) **structured as a D&D adventure**.
 
@@ -237,7 +235,7 @@ The DM presents the assigned philosophical text (e.g., a reading on core intro t
 - You are friends in a virtual simulation.
 - The reading becomes the "quest" or "dungeon" backdrop—e.g., do you leave or stay, or a riddle posed by a sphinx representing a philosopher.
 
-2. **Challenges Presented One at a Time**
+#### 2. **Challenges Presented One at a Time**
 
 The DM introduces **several challenges** sequentially (like encounters in a dungeon).
 
@@ -246,7 +244,7 @@ The DM introduces **several challenges** sequentially (like encounters in a dung
   - You are the philosophy instructor who is not allowed to teach Plato.
   - A trolley-like scenario in a fantasy context → Apply ethics/law theories.
 
-3. **Group Interaction & Participation**
+#### 3. **Group Interaction & Participation**
 
 For **each challenge**:
 
@@ -258,7 +256,7 @@ For **each challenge**:
   - Success → Advances the "quest," strengthens the argument, or reveals new insight.
   - Failure → Complication, objection, or setback (e.g., a logical fallacy is exposed).
 
-4. **Collaborative Input & Multiple Rolls**
+#### 4. **Collaborative Input & Multiple Rolls**
 
 After the first response/roll:
 
@@ -266,25 +264,16 @@ After the first response/roll:
 - They also **roll dice** to suggest "other considerations" (e.g., alternative interpretations, edge cases, or objections from the reading).
 - This creates a back-and-forth discussion, with dice adding chance, excitement, and stakes—mirroring how philosophical debates involve risk, uncertainty, and persuasion.
 
-5. **Resolution & Reflection**
+#### 5. **Resolution & Reflection**
 
 - The DM adjudicates the collective outcomes (like a traditional DM).
 - The session ends with debrief: How did the "adventure" illuminate the reading? What arguments won/lost? How does this apply to philosophy in the real world?
-
-### Why This Works for Philosophy (Especially Philosophy of Law)
-
-- Turns abstract texts into experiential "living" philosophy—students defend positions, face consequences, and see ideas clash.
-- Dice rolls simulate uncertainty in reasoning (e.g., a brilliant argument might "fail" due to poor delivery, or a flawed one succeed by luck—prompting reflection on persuasion vs. truth).
-- Rotating DM role builds skills in presentation, facilitation, and creative application of ideas.
-- Small groups (5) ensure everyone participates actively.
-
-This structure is innovative but aligns with existing experiments in using D&D/RPGs to teach philosophy (e.g., ethics courses with group quests or embodying philosophers as characters). It keeps sessions engaging, hands-on, and true to the spirit of philosophical inquiry as a shared adventure in reasoning! If you'd like examples of challenges for specific topics (e.g., Hart vs. Fuller on law, or Plato's Republic as a dungeon), let me know.
 
 ### Examples
 
 #### Examples of D&D-Style Challenges
 
-Here are **concrete examples** of challenges tailored to the rotating DM format you described. Each is designed for a **5-player group session** (45-60 minutes), drawing directly from key readings. The DM narrates in a immersive, fantasy voice, presents challenges **one at a time**, and adjudicates dice rolls (e.g., d20 + "Wisdom" for insight, "Charisma" for persuasion).
+Here are **concrete examples** of challenges tailored to the rotating DM format. Each is designed for a **~5-player group session** (45-60 minutes), drawing directly from key readings. The DM narrates in a immersive, fantasy voice (not necessary), presents challenges **one at a time**, and adjudicates dice rolls (e.g., d20 + "Wisdom" for insight, "Charisma" for persuasion).
 
 - **Success thresholds**: DC 10-15 (easy for basic grasp, hard for nuance). High roll = insight/reward; low = complication/objection.
 - **Player actions**: Ask a question (probe text) or suggest a solution (defend position). Others chime in with counters/considerations.
@@ -300,100 +289,7 @@ Here are **concrete examples** of challenges tailored to the rotating DM format 
 | **2: The Ideal City Escape (Books II-IV)** | "To flee, build a 'just city' in the cave: Guardians train, producers craft. But corruption spreads—luxury tempts!" | - **Question**: "Why ban poetry/myths?" (Intelligence roll: 13+ → Purify city; Low → Demoralized party.)<br>- **Suggestion**: "Philosopher-kings rule!" (Charisma roll: Success → Unlock tunnel; Fail → Faction revolt.)<br>- Others: Add classes (waves, auxiliaries) → Group rolls scale city "health." |
 | **3: Sunlight Revelation (Books VI-VII, Cave Allegory)** | "You reach the exit: Blinding sun! Puppets were lies. Return to free others? They mock you as mad." | - **Question**: "Forms vs. shadows—what's real?" (Insight roll: 15+ → Vision quest boon; Low → Blinded retreat.)<br>- **Suggestion**: "Descend as educators." (Strength roll: Success → Convert prisoners; Fail → Stoned as heretic.)<br>- Others: Resistance rolls → "Allegory boss": High total → Party ascends enlightened. |
 
-**DM Tips**: Use printed "shadow puppets" (simple drawings) as props. Debrief: How does the Cave mirror epistemology? Link to course: "Roll d20: What is reality?"
-
 These are **plug-and-play**—scale difficulty by reading depth. For more (e.g., Descartes' evil demon as a trap room or Mill's utilitarianism trolley trap), specify topics! This keeps sessions fun, fair, and deeply philosophical. 🎲
-
-## Rubrics
-
-For each type of assignment, you will be graded on:
-
-* The thesis
-* The premises supporting the thesis
-* The support offered for those premises
-* Your evaluation of the material.
-
-Thesis (main conclusion of the reading)
-
-* Excellent: A single, clear, obvious statement of your main point.
-* Good: The thesis is present and fairly obvious, but not stated in one sharp sentence.
-* Needs Improvement: You have to dig through the paper to find or reconstruct the thesis.
-* Unacceptable: No real thesis at all.
-
-Premises (the reasons supporting the thesis)
-
-* Excellent: Every reason is clearly stated (ideally in single sentences), you distinguish premises taken as given from those you defend, you provide sub-arguments for controversial claims, and the basic premises are at least plausibly true.
-* Good: Premises are mostly clear (though maybe not always single statements), sub-arguments appear for controversial points, and basic premises are plausible.
-* Needs Improvement: Premises are hard to identify, unclear which are basic vs. defended, missing sub-arguments for controversial claims, or basic premises are questionable.
-* Unacceptable: No real premises, or the premises are very likely false.
-
-Support (how well, logical, valid, sound?, the premises actually justify the thesis)
-
-* Excellent: The premises clearly and strongly support the thesis; the argument is either logically valid or makes the conclusion very plausible.
-* Good: Premises support the thesis reasonably well; the argument is valid or at least makes the conclusion plausible.
-* Needs Improvement: Premises only weakly support the thesis; the argument is invalid and the conclusion isn’t really made plausible.
-* Unacceptable: The premises do not support the thesis at all.
-
-Student Response (how you handle objections/counter-arguments)
-
-* Excellent: You thoughtfully address both obvious and less obvious objections, counterexamples, or opposing views, and give original or insightful replies.
-* Good: You address the most obvious objections and give reasonable responses.
-* Needs Improvement: You miss some obvious objections, or your responses are weak/empty (e.g., just saying “this is wrong” without explanation).
-* Unacceptable: You ignore objections, counterarguments, and opposing positions completely.
-
-This rubric rewards clear, well-structured, carefully defended, and critically aware philosophical writing. The strongest papers have a sharp thesis, transparent and plausible reasoning, strong logical support, and serious engagement with possible criticisms.
-
-There are four possible point values for each category:
-
-1. An unacceptable category area is worth 1/4 of the possible points for that category.
-2. One that needs improvement is worth 1/2 of the possible points for that category.
-3. A good submission is worth 3/4s of the possible points for that category.
-4. An excellent submission will be awarded full points.
-
- E.g.,
-
-* There are four categories per reflection.
-* It is possible to earn up to 2 points per Category
-* There are four categories
-* Therefore, each reflection is worth a possible total of 8 points.
-
-***Weekly Reflections:*** Each reflection is worth a possible total of 8 points. There are 12 possible reflections. I will only grade 8 or your best reflections.
-
-***Reflective Analysis 1 & 2 (160 points):*** Each reflective analysis is worth a possible total of 20 points per category, times 4 categories equals 80 points times 2 reflection pieces.
-
-***Essay 1 & 2 (80 points):*** Each Quiz is worth a possible total of 10 points per category, times 4 categories equals 40 points times 2 Quizzes.
-
-***Presentation:*** Your grade in this area depends on your preparation and participation in the DND class meetings. [We will use the dnd adventure sheet linked here to gage participation](https://drive.google.com/drive/folders/1ZAXxdpvv5jzylj8_18jXUTI68o9MLrXw?usp=sharing).
-
-[Download the Course Rubric Here](./weeks/rubric.qmd)
-
-## Grading Calculation
-
-Total Points: 640 points, distributed as above.
-
-* Formula: Raw scores summed across sheets; final percentage = SUM(all assignment points)/640 * 100.
-
-***Letter Grade:***
-
-Final grade uses the following scale (no rounding):
-
-| Letter Grade | Percentage |
-|---|---|
-| A+ | 97–100% |
-| A | 93–96% |
-| A- | 90–92% |
-| B+ | 87–89% |
-| B | 83–86% |
-| B- | 80–82% |
-| C+ | 77–79% |
-| C | 73–76% |
-| C- | 70–72% |
-| D+ | 67–69% |
-| D | 63–66% |
-| D- | 60–62% |
-| F | <60% |
-
-Example: Perfect scores = 32 + 160 + 160 + 80 + 80 + 96 + 32 = 640 points (100%, A+).
 
 ## University Supports and Policies
 
