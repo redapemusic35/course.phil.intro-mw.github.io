@@ -1,5 +1,5 @@
 ---
-title: "PHIL 101B (5691) - Introduction to Philosophy"
+title: "PHIL 101B (7951) - Introduction to Philosophy"
 subtitle: "Academic Year: 2025/26"
 format: html
 ---
