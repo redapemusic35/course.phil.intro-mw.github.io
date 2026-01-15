@@ -73,7 +73,7 @@ This structure is innovative but aligns with existing experiments in using D&D/R
 
 ### Examples of D&D-Style Challenges
 
-Here are **concrete examples** of challenges tailored to the rotating DM format you described. Each is designed for a **5-player group session** (45-60 minutes), drawing directly from key readings. The DM narrates in a immersive, fantasy voice, presents challenges **one at a time**, and adjudicates dice rolls (e.g., d20 + "Wisdom" for insight, "Charisma" for persuasion).
+These are **concrete examples** of challenges the DM for a given week may use. Each is designed for a **5-player group session** (45-60 minutes), drawing directly from key readings. The DM narrates in a immersive, fantasy voice, presents challenges **one at a time**, and adjudicates dice rolls (e.g., d20 + "Wisdom" for insight, "Charisma" for persuasion).
 
 - **Success thresholds**: DC 10-15 (easy for basic grasp, hard for nuance). High roll = insight/reward; low = complication/objection.
 - **Player actions**: Ask a question (probe text) or suggest a solution (defend position). Others chime in with counters/considerations.
