@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: "PHIL 101B (7951) - Introduction to Philosophy"
-=======
 title: "PHIL 101B (8012) - Introduction to Philosophy"
->>>>>>> db2368ce7891aefc07523d6b1d63675959722f93
 subtitle: "Academic Year: 2025/26"
 format: html
 ---
