@@ -6,7 +6,7 @@ format: html
 
 In this course, we will use David Chalmer's book ***Reality+*** to look at questions humans have been asking for thousands of years. While the primary focus of the book is look at one question in particular "Are we in a simulation?", we use this question to frame others such as: "What does it mean to know that the sky is blue?", "is murder really wrong?", "How did I come to know that murder is wrong?".
 
-[Download the Syllabus Here:](./weeks/syllabus.qmd)
+[Download the Syllabus Here:](./syllabus.qmd)
 
 # 🧑🏻‍🏫 Syllabus
 
