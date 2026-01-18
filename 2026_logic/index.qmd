@@ -4,6 +4,33 @@ subtitle: "Academic Year: 2025/26"
 format: html
 ---
 
+
+::: {.callout-important collapse=false}
+
+## 📢 Important
+
+(01/18/2026)
+
+* Monday is MLK day, no classes
+* I am adding some flexibility to my office hours
+ * Previously they were Thursday 1-5pm
+ * Now, they are Tuesday 1-3pm
+ * Thursday 1-3pm
+
+* Tuesday, we will be having lo-phi from 2-4pm
+ * This is an opportunity for you to come hang out in our new philosophy lounge, read, talk, and do philosophy
+ * Elizabeth Hall 104
+* Thursdays we will be hosting: ***The Experience Machine***
+ * This is an opportunity to come play video games
+* With an eye towards exploring philosophical questions that they raise
+ * Is it okay to exploit game mechanics to your advantage?
+ * Is sharing secrets outside the game world cheating?
+ * Is it wrong to gang up on defenseless players?
+ * What is an A$$Hole in a PVP environment?
+ * Is philosophy DND better than regular DND?
+
+:::
+
 ::: {.callout-important collapse=false}
 ## 📢 Important
 
