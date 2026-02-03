@@ -94,9 +94,9 @@ website:
          - href: 2026_intro/weeks/week09/page.qmd
            text: Week 09
            contents:
-             - href: 2026_intro/weeks/week09/page.qmd
+             - href: 2026_intro/weeks/week15/page.qmd
                text: 👨‍🏫 Lecture Material
-             - href: 2026_intro/weeks/week09/summary.qmd
+             - href: 2026_intro/weeks/week15/slides.qmd
                text: 💻 Notes and Summary
             #  - href: 2023/weeks/week01/appendix.qmd
             #    text: 🔖 Appendix href: 2026_intro/weeks/week08/page.qmd
