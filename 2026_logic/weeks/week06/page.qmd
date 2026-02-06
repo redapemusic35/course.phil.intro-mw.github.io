@@ -1,6 +1,15 @@
 ---
-title: "🗓️ Week 02 - Argument Forms, Formalization, Formation Rules"
+title: "🗓️ Introduction to Logic, Week 06"
 ---
+
+In this first week, we will cover what you can expect to learn from this course and the course logistics: all you need to know about the structure of the lectures, classes, assessments, and how we will interact throughout this course.
+
+| Unit | Topic | Pages |
+|---|---|---|
+|1 | What is deductive logic? | 1-8 |
+|2 | Validity and soundness | 9-19 |
+| 3 | Forms of inference | 20 |
+| 4 | Proofs | 28 |
 
 In this first week, we will cover what you can expect to learn from this course and the course logistics: all you need to know about the structure of the lectures, classes, assessments, and how we will interact throughout this course.
 
