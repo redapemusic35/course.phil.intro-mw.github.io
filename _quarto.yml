@@ -33,17 +33,17 @@ website:
            contents:
              - href: 2026_intro/weeks/week02/page.qmd
                text: 👨‍🏫 Lecture Material
-            #  - href: 2026_intro/weeks/week02/summary.qmd
-            #    text: 💻 Notes and Summary
+             - href: 2026_intro/weeks/week02/summary.qmd
+               text: 💻 Notes and Summary
             #  - href: 2023/weeks/week01/appendix.qmd
             #    text: 🔖 Appendix
          - href: 2026_intro/weeks/week03/page.qmd
-           text: Week 02
+           text: Week 03
            contents:
              - href: 2026_intro/weeks/week03/page.qmd
                text: 👨‍🏫 Lecture Material
-            #  - href: 2026_intro/weeks/week03/summary.qmd
-            #    text: 💻 Notes and Summary
+             - href: 2026_intro/weeks/week03/summary.qmd
+               text: 💻 Notes and Summary
             #  - href: 2023/weeks/week01/appendix.qmd
             #    text: 🔖 Appendix
          - href: 2026_intro/weeks/week04/page.qmd
