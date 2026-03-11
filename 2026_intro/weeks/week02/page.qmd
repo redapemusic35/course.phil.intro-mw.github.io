@@ -1,29 +1,45 @@
 ---
-title: "🗓️ Week 02 - Mimesis"
+title: "🗓️ Summary Until Now"
 ---
 
-In this first week, we will cover what you can expect to learn from this course and the course logistics: all you need to know about the structure of the lectures, classes, assessments, and how we will interact throughout this course.
+The experiences that you have, are they: real life? fantasy? dreams? illusion?
 
-## 👨‍🏫 Lecture Slides
+3 philosophers:
 
-Either click on the slide area below or click [here](slides.qmd) to view it in fullscreen.
-Use your keypad to navigate the slides.
+Zhuangzi's Butterfly Dream
 
-<div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
-<iframe src="slides.html" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
-</div>
+> Once Zhuangzi dreamt he was a butterfly, a butterfly flitting and fluttering around, happy with himself and doing as he pleased. He didn’t know he was Zhuangzi. Suddenly he woke up and there he was, solid and unmistakably Zhuangzi. But he didn’t know if he was Zhuangzi who had dreamt he was a butterfly, or a butterfly dreaming he was Zhuangzi.
 
-🎥 Looking for lecture recordings? You can find them on Canvas.
+Narada's Transformation:
 
-## ✍️ Coursework
+Narada: I have conquered illusion
 
-🚧 Come back after the lecture to read the coursework instructions for the week 🚧
+*lives an entire lifetime as a woman who gave birth to sons only to watch them die in battle*
+
+Vishnu: (As Narada grieves) “Why are you so sad? This is just an illusion.”
+
+Rick and Morty:
+
+> Morty lives Roy’s entire fifty-five-year life: childhood, football star, carpet salesman, cancer patient, death. When he emerges from the game a moment later as Morty, his grandfather berates him for having made the wrong life decisions in the simulation.
+
+Plato's Cave:
+
+Should we prefer life inside or outside the cave?
+
+Takeaway, 3 questions:
+
+Is this the real world? \
+How do we *know* this is the real world? \
+Should we care?
+
+Chalmers:
+
+1. Virtual worlds are real. Virtual objects really exist.
+2. I don’t know whether we’re in a virtual world or not.
+3. Can you lead a good life in a virtual world? (My answer: yup.)
+
+# What is a Simulation?
+
+> A simulation usually concentrates on a certain level. A population-level simulation approximates human behavior with simple psychological models, but it doesn’t usually try to simulate the neural networks that underlie the psychology.
 
 
-## 📚 Recommended Reading
-
-- Check the end of slides for the list of references cited in the lecture.
-
-## 📟 Communication
-
-- If you feel like it, introduce your 'selves' in the `#introductions` channel in [Discussions](https://stetson.instructure.com/courses/38093/discussion_topics/162462)
