@@ -4,6 +4,8 @@
 
 # What is the simulation hypothesis
 
+Simulations: Rough approximations of the behavior of the systems they simulate.
+
 ## Possible Worlds and Thought Experiments
 
 ## Simulations in Science Fiction

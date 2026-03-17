@@ -8,7 +8,8 @@ date-meta: 14 March 2023
 date-format: "DD MMM YYYY"
 toc: false
 toc-depth: 1
-toc-title: "Probability"
+toc-title: "God Arguments"
+
 center-title-slide: false
 from: markdown+emoji
 format:
@@ -22,6 +23,26 @@ format:
     preview-links: auto
     logo: /figures/icons/course_favicon.png
     css: /css/styles_slides.css
+---
+
+# Ch 7, Feb 7: Is God a Hacker in the next Universe Up?
+
+## Is God a Hacker?
+
+---
+
+### What is God?
+
+* Creator
+* All Powerful
+* All Knowing
+* All Good
+
+---
+
+### What about the Hacker?
+
+=======
     footer: 'PHIL101B -- Probability'
 ---
 
