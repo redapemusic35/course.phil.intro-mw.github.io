@@ -8,6 +8,22 @@ Simulations: Rough approximations of the behavior of the systems they simulate.
 
 ## Possible Worlds and Thought Experiments
 
+
+##### Three Important Questions:
+
+* How can Zhuangzi *know* whether or not he is dreaming?
+* Is Narada's transformation real or illusory?
+* Can we live a good life in Plato's cave?
+
+##### The simulation hypothesis
+
+* Four phases of simulation:
+
+1. Representation
+2. Could
+3. Could have
+4. simulcrum: possible worlds
+
 ## Simulations in Science Fiction
 
 ## The Simulation Hypothesis

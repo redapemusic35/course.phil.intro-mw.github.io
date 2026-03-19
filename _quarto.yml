@@ -28,8 +28,17 @@ website:
         text: "🏠 Lecture Notes and Slides"
       - section: "🗓️ Introduction to Philosophy"
         contents:
-         - href: 2026_intro/weeks/week02/page.qmd
+         - href: 2026_intro/weeks/week01/page.qmd
            text: Week 01
+           contents:
+             - href: 2026_intro/weeks/week02/page.qmd
+               text: 👨‍🏫 Lecture Material
+             - href: 2026_intro/weeks/week01/summary.qmd
+               text: 💻 Notes and Summary
+            #  - href: 2023/weeks/week01/appendix.qmd
+            #    text: 🔖 Appendix
+         - href: 2026_intro/weeks/week02/page.qmd
+           text: Week 02
            contents:
              - href: 2026_intro/weeks/week02/page.qmd
                text: 👨‍🏫 Lecture Material
