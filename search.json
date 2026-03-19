@@ -484,35 +484,55 @@
     "href": "2026_intro/weeks/week01/page.html",
     "title": "🗓️ Week 02 - Chapter 1",
     "section": "",
-    "text": "In this first week, we will cover what you can expect to learn from this course and the course logistics: all you need to know about the structure of the lectures, classes, assessments, and how we will interact throughout this course."
+    "text": "In this first week, we will cover what you can expect to learn from this course and the course logistics: all you need to know about the structure of the lectures, classes, assessments, and how we will interact throughout this course.",
+    "crumbs": [
+      "🗓️ Introduction to Philosophy",
+      "Week 01"
+    ]
   },
   {
     "objectID": "2026_intro/weeks/week01/page.html#lecture-slides",
     "href": "2026_intro/weeks/week01/page.html#lecture-slides",
     "title": "🗓️ Week 02 - Chapter 1",
     "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥 Looking for lecture recordings? You can only find those on Moodle."
+    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥 Looking for lecture recordings? You can only find those on Moodle.",
+    "crumbs": [
+      "🗓️ Introduction to Philosophy",
+      "Week 01"
+    ]
   },
   {
     "objectID": "2026_intro/weeks/week01/page.html#coursework",
     "href": "2026_intro/weeks/week01/page.html#coursework",
     "title": "🗓️ Week 02 - Chapter 1",
     "section": "✍️ Coursework",
-    "text": "✍️ Coursework\n🚧 Come back after the lecture to read the coursework instructions for the week 🚧"
+    "text": "✍️ Coursework\n🚧 Come back after the lecture to read the coursework instructions for the week 🚧",
+    "crumbs": [
+      "🗓️ Introduction to Philosophy",
+      "Week 01"
+    ]
   },
   {
     "objectID": "2026_intro/weeks/week01/page.html#recommended-reading",
     "href": "2026_intro/weeks/week01/page.html#recommended-reading",
     "title": "🗓️ Week 02 - Chapter 1",
     "section": "📚 Recommended Reading",
-    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture."
+    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture.",
+    "crumbs": [
+      "🗓️ Introduction to Philosophy",
+      "Week 01"
+    ]
   },
   {
     "objectID": "2026_intro/weeks/week01/page.html#communication",
     "href": "2026_intro/weeks/week01/page.html#communication",
     "title": "🗓️ Week 02 - Chapter 1",
     "section": "📟 Communication",
-    "text": "📟 Communication\n\nIf you feel like it, introduce yourself in the #introductions channel on Slack"
+    "text": "📟 Communication\n\nIf you feel like it, introduce yourself in the #introductions channel on Slack",
+    "crumbs": [
+      "🗓️ Introduction to Philosophy",
+      "Week 01"
+    ]
   },
   {
     "objectID": "2026_intro/weeks/week07/slides.html#is-god-a-hacker",
@@ -1244,7 +1264,7 @@
     "href": "2026_intro/weeks/week02/slides.html#possible-worlds-and-thought-experiments",
     "title": "Games That Go Too Far",
     "section": "Possible Worlds and Thought Experiments",
-    "text": "Possible Worlds and Thought Experiments"
+    "text": "Possible Worlds and Thought Experiments\n\nThree Important Questions:\n\nHow can Zhuangzi know whether or not he is dreaming?\nIs Narada’s transformation real or illusory?\nCan we live a good life in Plato’s cave?\n\n\n\nThe simulation hypothesis\n\nFour phases of simulation:\n\n\nRepresentation\nCould\nCould have\nsimulcrum: possible worlds"
   },
   {
     "objectID": "2026_intro/weeks/week02/slides.html#simulations-in-science-fiction",
@@ -1254,8 +1274,8 @@
     "text": "Simulations in Science Fiction"
   },
   {
-    "objectID": "2026_intro/weeks/week02/slides.html#the-simulation-hypothesis",
-    "href": "2026_intro/weeks/week02/slides.html#the-simulation-hypothesis",
+    "objectID": "2026_intro/weeks/week02/slides.html#the-simulation-hypothesis-1",
+    "href": "2026_intro/weeks/week02/slides.html#the-simulation-hypothesis-1",
     "title": "Games That Go Too Far",
     "section": "The Simulation Hypothesis",
     "text": "The Simulation Hypothesis"
@@ -1820,7 +1840,8 @@
     "text": "The experiences that you have, are they: real life? fantasy? dreams? illusion?\n3 philosophers:\nZhuangzi’s Butterfly Dream\n\nOnce Zhuangzi dreamt he was a butterfly, a butterfly flitting and fluttering around, happy with himself and doing as he pleased. He didn’t know he was Zhuangzi. Suddenly he woke up and there he was, solid and unmistakably Zhuangzi. But he didn’t know if he was Zhuangzi who had dreamt he was a butterfly, or a butterfly dreaming he was Zhuangzi.\n\nNarada’s Transformation:\nNarada: I have conquered illusion\nlives an entire lifetime as a woman who gave birth to sons only to watch them die in battle\nVishnu: (As Narada grieves) “Why are you so sad? This is just an illusion.”\nRick and Morty:\n\nMorty lives Roy’s entire fifty-five-year life: childhood, football star, carpet salesman, cancer patient, death. When he emerges from the game a moment later as Morty, his grandfather berates him for having made the wrong life decisions in the simulation.\n\nPlato’s Cave:\nShould we prefer life inside or outside the cave?\nTakeaway, 3 questions:\nIs this the real world?\nHow do we know this is the real world?\nShould we care?\nChalmers:\n\nVirtual worlds are real. Virtual objects really exist.\nI don’t know whether we’re in a virtual world or not.\nCan you lead a good life in a virtual world? (My answer: yup.)\n\n\nWhat is a Simulation?\n\nA simulation usually concentrates on a certain level. A population-level simulation approximates human behavior with simple psychological models, but it doesn’t usually try to simulate the neural networks that underlie the psychology.",
     "crumbs": [
       "🗓️ Introduction to Philosophy",
-      "Week 01"
+      "Week 01",
+      "👨‍🏫 Lecture Material"
     ]
   },
   {
